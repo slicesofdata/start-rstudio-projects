@@ -14,6 +14,10 @@ Rplots.pdf
 .Rapp.history
 .Rprofile
 
+# Don't add libraies to the project - renv-specific (keep only renv.lock)
+renv/library/
+renv/staging/
+
 # Ignore the RStudio project files
 .Rproj.user/
 *.Rproj
