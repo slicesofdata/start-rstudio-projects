@@ -1,9 +1,12 @@
-# start-rstudio-projects
+## start-rstudio-projects
 
 For starting new RStudio projects
 
+## 🛠 Initial Git Setup
+After cloning the repository, run the following in R script to handle long paths:
+source("setup_git_config.R")
 
-# Directory Structure
+## Directory Structure
 
 ```
 ├── cleanup.R               (a script for cleaning up the project repo at termination)
