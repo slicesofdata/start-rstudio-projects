@@ -3,8 +3,8 @@
 For starting new RStudio projects
 
 ## 🛠 Initial Git Setup
-After cloning the repository, run the following in R script to handle long paths:
-source("setup_git_config.R")
+After cloning the repository configure git to handle long paths using, `git config --system core.longpaths true` or run the following in R script to handle long paths:
+`source("setup_git_config.R")`
 
 ## Directory Structure
 
