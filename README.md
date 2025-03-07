@@ -24,6 +24,7 @@ source("setup_git_config.R")
 └── reports/
 │   ├── figs/
 │   └── images/
+├── setup_git_config.R
 └── src/
 │   ├── data/
 │   ├── figs/
