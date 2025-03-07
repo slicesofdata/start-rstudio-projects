@@ -23,7 +23,7 @@ After cloning the repository, configure Git to handle long paths using, `git con
 └── reports/
 │   ├── figs/
 │   └── images/
-├── setup_git_config.R
+├── setup_git_config.R       (a script for configuration settings, namely, long path handling)
 └── src/
 │   ├── data/
 │   ├── figs/
