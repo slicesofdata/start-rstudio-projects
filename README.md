@@ -17,8 +17,8 @@ source("setup_git_config.R")
 ├── <project-name>.Rproj    (the R project file)
 ├── docs/
 ├── .gitignore              (a version-control gitignore file)
-├── requirements.txt        (a file for required libraries, etc.)
-├── requirements.R          (a file containing instructions for libraries, etc.)
+├── requirements.txt        (a file for required Python libraries, etc.)
+├── requirements.R          (a file containing instructions for required R libraries, etc.)
 ├── README.md               (a read me file)
 ├── refs/
 └── reports/
